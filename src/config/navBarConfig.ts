@@ -82,6 +82,18 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
         external: true,
         icon: "fa7-brands:qq",
       },
+      {
+        name: "B站主页",
+        url: "https://space.bilibili.com/5436829",
+        external: true,
+        icon: "fa7-brands:bilibili",
+      },
+      {
+        name: "Steam主页",
+        url: "https://steamcommunity.com/id/Yamazzaki/",
+        external: true,
+        icon: "fa7-brands:steam",
+      },
     ],
   });
 
